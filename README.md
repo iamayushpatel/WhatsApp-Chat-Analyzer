@@ -124,7 +124,7 @@ streamlit run app.py
 
 # _Live Demo_
 
-https://whatsapp-chat-analyzer-by-ayush-patel.streamlit.app/
+[https://whatsapp-chat-analyzer-by-ayush-patel.streamlit.app/](https://whatsapp-chat-analyzer-by-ayush-patel.streamlit.app/)
 
 # _Limitation of Project_
 
